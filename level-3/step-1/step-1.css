@@ -1,9 +1,37 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@murvanessa 
+abelRoland
+/
+HTML-CSS-Practice-Problems
+forked from DevMountain/HTML-CSS-Practice-Problems
+0
+01.1k
+ Code
+ Pull requests 0 Actions
+ Projects 0
+ Wiki
+ Security 0
+ Insights
+HTML-CSS-Practice-Problems/level-3/step-1/step-1.css
+@abelRoland abelRoland Complete Level 3
+d20771e 6 days ago
+@bencallis1@devlemire@abelRoland
+75 lines (54 sloc)  919 Bytes
+  
 /*  Step-1 add a background image that takes up the entire width of the container */
 
 .main-top-section {
     width: 100%;
     height: 200px;
     position: relative;
+    background: #F2EFE5;
 }
 
 
@@ -71,4 +99,15 @@
 .shop-icon {
     width: 350px;
 }
-
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
